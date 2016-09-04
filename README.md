@@ -1,2 +1,2 @@
 # myFirstMap
-First time playing with google maps API and firebase. The next goal is to show user where the closest gyms are to their current location. This is currently a work in progress and this readme file will be updated as days/weeks continue. The ultimate goal is to Have an app where users can find nearby workout buddies. "Like tinder, but for workout buddies." More progress will be made the weekend of April 16th, 2016. Also, I'm getting more familiar with javascript.
+First time playing with google maps API and firebase. 
